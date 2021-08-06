@@ -1,2 +1,0 @@
-[[build.buildpacks]]
-uri = "urn:cnb:registry:paketo-buildpacks/php"
